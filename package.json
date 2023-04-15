@@ -27,7 +27,7 @@
   "devDependencies": {
     "jest": "^29.5.0",
     "nock": "^11.4.0",
-    "nodemon": "^1.19.4",
+    "nodemon": "^2.0.22",
     "semistandard": "^16.0.0",
     "standard": "^16.0.3"
   },
